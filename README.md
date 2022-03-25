@@ -16,6 +16,14 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
+### Online Projects:
+- [Snake Game](https://thiagopereirasje.github.io/jogo-cobrinha/)
+- [Rescue Game](https://thiagopereirasje.github.io/jogo-resgate-dio/)
+- [Netflix Clone](https://thiagopereirasje.github.io/dio-clone-netflix/)
+- [Web Calculator](https://thiagopereirasje.github.io/calculadora-web/)
+- [Hunting Words](https://thiagopereirasje.github.io/hunt-words/)
+
+
 <!--
 **ThiagoPereiraSje/ThiagoPereiraSje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
